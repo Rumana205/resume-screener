@@ -1,0 +1,20 @@
+MICHAEL CHANG
+Email: michael.chang@cloudops.net | Phone: +1 (555) 776-5432
+
+SUMMARY:
+Site Reliability and DevOps Engineer with 7 years of experience automating infrastructure, scaling cloud architectures, and designing robust CI/CD pipelines. Certified Kubernetes Administrator.
+
+TECHNICAL SKILLS:
+AWS, Terraform, Kubernetes, Docker, Jenkins, Git, CI/CD pipelines, Bash, Python, Linux Systems
+
+EXPERIENCE:
+DevOps Team Lead | CloudStream Tech (2021 - Present)
+- Provisioned secure, multi-region AWS cloud architectures using Terraform files.
+- Orchestrated container deployment across Kubernetes clusters, reducing hosting bills by 20%.
+- Established automated testing and dockerization deployment scripts using Jenkins and Git hooks.
+
+System Administrator | NetGate Solutions (2018 - 2021)
+- Managed Linux system environments, handled automated backup routines, and monitored server loads.
+
+EDUCATION:
+B.S. in Computer Engineering - Georgia Tech (2018)

@@ -1,0 +1,21 @@
+DAVID MILLER
+Email: david.miller@pmgroup.com | Phone: +1 (555) 898-7654
+
+SUMMARY:
+Experienced Project Manager and Scrum Master with 8 years of experience managing software development lifecycle delivery. Strong practitioner of Agile methodologies, prioritizing sprint scope, and eliminating team blockers.
+
+CORE SKILLS:
+Agile Methodologies, Scrum, Kanban, Jira, Confluence, Risk Management, Resource Allocation, Stakeholder Communication
+
+EXPERIENCE:
+Senior Project Manager | TechFlow Inc (2020 - Present)
+- Facilitated daily standups, sprint planning, and retrospective sessions for 3 software engineering squads.
+- Implemented sprint velocity tracking tools in Jira, leading to 25% improvement in deployment predictability.
+- Managed vendor relations and reported project status reports to executive directors.
+
+Project Manager | BuildIT Software (2018 - 2020)
+- Guided engineering groups through transition from waterfall cycles into Agile scrum methodologies.
+- Coordinated user testing feedback sessions and mapped feature validation timelines.
+
+EDUCATION:
+PMP Certified (2020), B.S. in Project Management - University of Washington (2017)

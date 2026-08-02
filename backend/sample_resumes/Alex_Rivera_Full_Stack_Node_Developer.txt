@@ -1,0 +1,21 @@
+ALEX RIVERA
+Email: alex.rivera@stackdev.io | Phone: +1 (555) 332-9011
+
+SUMMARY:
+Versatile Full Stack Software Engineer with 5 years of professional experience writing Javascript/Typescript. Expert in Node.js, Express, React, and MongoDB database environments. Strong knowledge of system architectures and REST API integrations.
+
+CORE SKILLS:
+Node.js, Express, React, Javascript, Typescript, MongoDB, SQL, Git, REST APIs, GraphQL, Heroku, Docker
+
+PROFESSIONAL EXPERIENCE:
+Full Stack Developer | AppForge Co (2021 - Present)
+- Built enterprise Node.js APIs utilizing Express, handling over 100k daily requests.
+- Developed dynamic user dashboards in React, integrating real-time charts and websockets.
+- Leveraged MongoDB aggregation queries to build customized admin reporting modules.
+
+Software Developer | DevEngine (2019 - 2021)
+- Developed and maintained server-side Javascript modules and SQL queries.
+- Created microservices to automate automated email broadcasts and slack alerts.
+
+EDUCATION:
+B.S. in Computer Science - University of Illinois (2019)

@@ -1,0 +1,22 @@
+AMANDA WHITE
+Email: amanda.white@webdev.org | Phone: +1 (555) 012-9988
+Website: amandacodes.io
+
+SUMMARY:
+Passionate Frontend Engineer with 4 years of experience building modern, highly-responsive web applications using React, JavaScript, HTML5, CSS3, Tailwind CSS, and Vite. Dedicated to pixel-perfect layouts and smooth user experience animations.
+
+TECHNICAL SKILLS:
+React, React Hooks, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Sass, Vite, Git, Jest, Responsive Web Design
+
+EXPERIENCE:
+Frontend Developer | PixelCraft Studio (2022 - Present)
+- Designed and built responsive landing pages and dashboard modules in React.
+- Used Tailwind CSS to create custom utility tokens and implement dark-mode theme transitions.
+- Reduced webpack bundle size by 40% by migrating projects to Vite.
+
+Web UI Engineer | Interface Hub (2020 - 2022)
+- Maintained legacy React and Vue platforms, translating PSD files into functional HTML/CSS templates.
+- Conducted cross-browser compatibility testing and resolved accessibility issues.
+
+EDUCATION:
+B.A. in Web Design & Interactive Media - Boston University (2020)
