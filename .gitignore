@@ -1,0 +1,14 @@
+# Virtual environments
+backend/venv/
+backend/__pycache__/
+backend/temp/
+backend/sample_resumes/
+
+# Environment files containing keys
+backend/.env
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
